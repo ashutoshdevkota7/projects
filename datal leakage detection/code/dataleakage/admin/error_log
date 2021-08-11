@@ -1,0 +1,11 @@
+[07-May-2019 13:53:49 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/capscomt/public_html/pro/dataleakage/function/user_model.php on line 544
+[07-May-2019 13:56:27 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/capscomt/public_html/pro/dataleakage/function/user_model.php on line 544
+[07-May-2019 13:56:27 Etc/GMT] PHP Notice:  Undefined variable: date_time in /home/capscomt/public_html/pro/dataleakage/function/user_model.php on line 548
+[07-May-2019 13:58:07 Etc/GMT] PHP Notice:  Undefined variable: date_time in /home/capscomt/public_html/pro/dataleakage/function/user_model.php on line 548
+[08-May-2019 13:26:06 Etc/GMT] PHP Notice:  Undefined variable: confirmdata in /home/capscomt/public_html/pro/dataleakage/function/distributor_model.php on line 174
+[08-May-2019 13:26:20 Etc/GMT] PHP Notice:  Undefined variable: confirmdata in /home/capscomt/public_html/pro/dataleakage/function/distributor_model.php on line 174
+[08-May-2019 13:26:24 Etc/GMT] PHP Notice:  Undefined variable: confirmdata in /home/capscomt/public_html/pro/dataleakage/function/distributor_model.php on line 174
+[08-May-2019 13:27:20 Etc/GMT] PHP Notice:  Undefined variable: confirmdata in /home/capscomt/public_html/pro/dataleakage/function/distributor_model.php on line 174
+[08-May-2019 13:27:28 Etc/GMT] PHP Notice:  Undefined variable: confirmdata in /home/capscomt/public_html/pro/dataleakage/function/distributor_model.php on line 174
+[08-May-2019 13:27:35 Etc/GMT] PHP Notice:  Undefined variable: confirmdata in /home/capscomt/public_html/pro/dataleakage/function/distributor_model.php on line 174
+[08-May-2019 15:19:29 Etc/GMT] PHP Notice:  Undefined index: usertype in /home/capscomt/public_html/pro/dataleakage/admin/key_request.php on line 3
